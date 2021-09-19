@@ -1,0 +1,6 @@
+{
+  "address": "0x2Ab3b572C4572F244c768FDb5d7bF4b61b034921",
+  "private_key": "d4543f6edb13b50f95cc2845b1fd3ddc41b89b7090140feb3f69ab0771283658",
+  "provider_bsc": "http://65.21.127.168:8545",
+  "provider_wss": "ws://162.55.138.214:443"
+}
